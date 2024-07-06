@@ -1,10 +1,7 @@
 # Olá, eu sou Elton Storari
 
-```java 
-class Programmer
-
-	def initialize() 
-```
+class Programmer {
+    public Programmer() {
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
@@ -75,9 +72,7 @@ class Programmer
 
     
 
-	 
-end 
-```
+}}
 
 
 
