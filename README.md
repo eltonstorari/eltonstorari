@@ -1,8 +1,5 @@
 # Olá, eu sou Elton Storari
 
-class Programmer {
-    public Programmer() {
-
 <p align="left">
     <h3 align="left">Connect with me:</h3>
     <a href="https://www.linkedin.com/in/elton-storari-2a54aa204/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="eltonstorari" height="30" width="40" /></a>
@@ -71,8 +68,5 @@ class Programmer {
 <a href="https://wakatime.com/@a6eec79b-b9d4-4a9a-92f0-8bd0f4854f83"><img src="https://wakatime.com/badge/user/a6eec79b-b9d4-4a9a-92f0-8bd0f4854f83.svg" alt="Total time coded since Jun 27 2024" /></a>
 
     
-
-}}
-
 
 
