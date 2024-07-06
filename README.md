@@ -57,15 +57,16 @@
         <a href="https://stackshare.io/java" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
         <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a>
         <h4 align="left">Medium Skill:</h4>
-        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a>
-        <a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
-        <a href="https://stackshare.io/laravel" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" /></a>
-        <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-	<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
-        
+        <!--a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a-->
+        <!--a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a-->
+        <!--a href="https://stackshare.io/laravel" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" /></a-->
+        <!--a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a-->
+	<!--a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a-->
+    <a href="https://mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" alt="mysql" width="40" height="40" /></a-->
+        <a href="https://wakatime.com/@a6eec79b-b9d4-4a9a-92f0-8bd0f4854f83"><img src="https://wakatime.com/badge/user/a6eec79b-b9d4-4a9a-92f0-8bd0f4854f83.svg" alt="Total time coded since Jun 27 2024" /></a>
     </p>
 
-<a href="https://wakatime.com/@a6eec79b-b9d4-4a9a-92f0-8bd0f4854f83"><img src="https://wakatime.com/badge/user/a6eec79b-b9d4-4a9a-92f0-8bd0f4854f83.svg" alt="Total time coded since Jun 27 2024" /></a>
+
 
     
 
